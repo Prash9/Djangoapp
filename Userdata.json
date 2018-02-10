@@ -1,0 +1,20 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$100000$zfkokLBXwKo7$BcGUK31VNZvNFPVyQCMmEDFw/BmaLSDQcZ2JkTzTNIY=",
+    "last_login": "2018-02-03T07:45:21.403Z",
+    "is_superuser": true,
+    "username": "prash94",
+    "first_name": "",
+    "last_name": "",
+    "email": "prashantkamath94@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2018-02-03T07:45:04.069Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
